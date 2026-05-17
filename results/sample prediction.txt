@@ -1,0 +1,9 @@
+Message  : I am very happy with your service!
+Predicted: neutral
+--------------------------------------------------
+Message  : My order is delayed and nobody is helping me.
+Predicted: neutral
+--------------------------------------------------
+Message  : I need information about my account.
+Predicted: neutral
+--------------------------------------------------
