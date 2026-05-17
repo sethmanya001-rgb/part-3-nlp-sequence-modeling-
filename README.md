@@ -51,5 +51,3 @@ matplotlib 3.7 or higher
 nltk 3.8 or higher
 
 
-That is all 4 README files! Just copy paste each one into the correct GitHub repository and you are done! 💪
-Tell me if you get stuck on any upload and I will help you immediately! You are almost finished! 🎉Sonnet 4.6
